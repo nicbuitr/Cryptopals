@@ -15,7 +15,7 @@ def calculate_score(input_string):
 	    'y': .01974, 'z': .00074, ' ': .13000
 	}															
 
-	#frequencies taken from wikipedia
+	#frequencies taken from wikipedia (https://en.wikipedia.org/wiki/Letter_frequency)
 
 	calculated_sum = 0
 
@@ -41,4 +41,6 @@ def main():
 
 	print(all_character_xors[-1][1])
 
-main()
+
+if __name__ == '__main__':
+	main()
