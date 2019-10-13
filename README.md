@@ -1,6 +1,5 @@
 <p align="center">
    <a href="https://cryptopals.com/">
-     <img src="https://cryptoservices.github.io/images/ncc-logo.png">
      <h1 align="center">Cryptopals</h1>
   </a>
 </p>
@@ -17,6 +16,8 @@
 # Introduction
 
 This repository contains the source code of the collection of 64 exercises that demonstrate attacks on real-world crypto, these are split in 8 sets of challenges as displayed at the [Cryptopals Website](https://cryptopals.com/).
+
+# Here is what [Cryptopals Website](https://cryptopals.com/) tells us:
 
 This is a different way to learn about crypto than taking a class or reading a book. We give you problems to solve. They're derived from weaknesses in real-world systems and modern cryptographic constructions. We give you enough info to learn about the underlying crypto concepts yourself. When you're finished, you'll not only have learned a good deal about how cryptosystems are built, but you'll also understand how they're attacked.
 
